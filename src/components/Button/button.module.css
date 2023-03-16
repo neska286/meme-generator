@@ -1,0 +1,20 @@
+.buttonWrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+button {
+    width: 477px;
+    height: 40px;
+    background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+    border-radius: 5px;
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    border: transparent;
+}

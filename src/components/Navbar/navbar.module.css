@@ -1,0 +1,16 @@
+.navbarContainer{
+width: 100%;
+background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+padding: 20px 20px;
+display: flex;
+gap: 10px;
+}
+.navbarContainer span{
+font-family: 'Karla';
+font-style: normal;
+font-weight: 700;
+font-size: 20.7482px;
+line-height: 24px;
+letter-spacing: -0.1em;
+color: #FFFFFF;
+}
